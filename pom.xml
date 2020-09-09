@@ -56,5 +56,4 @@
         <java.target.version>1.5</java.target.version>
     </properties>
 
-    ...
 </project>
